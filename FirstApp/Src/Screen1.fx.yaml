@@ -10,3 +10,8 @@ Screen1 As screen:
         Y: =84
         ZIndex: =2
 
+    MenuComponent_2 As MenuComponent:
+        X: =404
+        Y: =144
+        ZIndex: =3
+
