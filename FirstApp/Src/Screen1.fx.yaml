@@ -1,0 +1,12 @@
+Screen1 As screen:
+
+    MenuComponent_1 As MenuComponent:
+        X: =32
+        Y: =64
+
+    Label1 As label:
+        Text: =MenuComponent_1.Selected
+        X: =364
+        Y: =84
+        ZIndex: =2
+

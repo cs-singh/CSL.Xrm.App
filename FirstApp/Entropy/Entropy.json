@@ -1,0 +1,78 @@
+{
+  "ComponentIndexes": {
+    "MenuComponent": 1,
+    "MenuComponent_1": 1
+  },
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Gallery1": 4,
+    "galleryTemplate1": 5,
+    "Label1": 11,
+    "MenuComponent": 3,
+    "MenuComponent_1": 10,
+    "NextArrow4": 6,
+    "Screen1": 9,
+    "Separator4": 8,
+    "Title4": 7
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "08/31/2022 16:48:28",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OldLogoFileName": "gttif1tt.jpg",
+  "OrderComponentMetadata": {
+    "eabd1431c56543af8d0dc336d09aa242": 0
+  },
+  "OrderComponentTemplate": {
+    "eabd1431c56543af8d0dc336d09aa242": 0
+  },
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "gallery": 0,
+    "icon": 1,
+    "label": 2,
+    "rectangle": 3
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Gallery1": 2,
+    "galleryTemplate1": 3,
+    "Label1": 1,
+    "MenuComponent": 0,
+    "MenuComponent_1": 0,
+    "NextArrow4": 4,
+    "Screen1": 0,
+    "Separator4": 6,
+    "Title4": 5
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1261534,
+    "ControlCount": {
+      "eabd1431c56543af8d0dc336d09aa242": 2,
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "label": 2,
+      "rectangle": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 1.6275335,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
