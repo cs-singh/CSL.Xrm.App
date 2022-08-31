@@ -9,10 +9,10 @@
     "App": 1,
     "Gallery1": 4,
     "galleryTemplate1": 5,
-    "Label1": 11,
+    "Label1": 12,
     "MenuComponent": 3,
     "MenuComponent_1": 10,
-    "MenuComponent_2": 12,
+    "MenuComponent_2": 11,
     "NextArrow4": 6,
     "Screen1": 9,
     "Separator4": 8,
@@ -20,7 +20,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/31/2022 16:57:43",
+  "HeaderLastSavedDateTimeUTC": "08/31/2022 21:08:33",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -64,7 +64,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1339253,
+    "AnalysisLoadTime": 0.1309785,
     "ControlCount": {
       "eabd1431c56543af8d0dc336d09aa242": 3,
       "gallery": 1,
@@ -74,7 +74,7 @@
       "rectangle": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.7382181,
+    "DeserializationLoadTime": 0.9827306,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
