@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>hofsecoe_testapp_2bd3d</Name>
-  <AppVersion>2022-08-31T21:14:21Z</AppVersion>
+  <AppVersion>2022-08-31T21:40:22Z</AppVersion>
   <Status>Ready</Status>
-  <CreatedByClientVersion>3.22083.10.0</CreatedByClientVersion>
-  <MinClientVersion>3.22083.10.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22083.10","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false","sienaVersion":"20220831T161022Z-3.22083.10.0"}</Tags>
+  <CreatedByClientVersion>3.22084.5.0</CreatedByClientVersion>
+  <MinClientVersion>3.22084.5.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22084.5","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false","sienaVersion":"20220831T211421Z-3.22083.10.0"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>rgba(9, 33, 98, 1)</BackgroundColor>
