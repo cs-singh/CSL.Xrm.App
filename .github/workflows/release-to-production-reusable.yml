@@ -63,6 +63,7 @@ jobs:
         solution-folder: ${{ inputs.SOLUTION_SOURCE_FOLDER}}/${{ inputs.SOLUTION_NAME }}
         solution-file: ${{ inputs.SOLUTION_OUTBOUND_FOLDER}}/${{ inputs.SOLUTION_NAME }}.zip
         solution-type: Unmanaged
+        process-canvas-apps: true
 
     - name: Import solution as unmanaged to build env
       uses: microsoft/powerplatform-actions/import-solution@0.4.0
