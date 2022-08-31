@@ -15,3 +15,9 @@ Screen1 As screen:
         Y: =144
         ZIndex: =3
 
+    Label1_1 As label:
+        Text: =MenuComponent_2.Selected
+        X: =832
+        Y: =240
+        ZIndex: =4
+
