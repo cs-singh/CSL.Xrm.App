@@ -21,7 +21,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/31/2022 21:40:14",
+  "HeaderLastSavedDateTimeUTC": "08/31/2022 21:40:34",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -48,17 +48,17 @@
   },
   "PublishOrderIndices": {
     "App": 0,
-    "Gallery1": 2,
-    "galleryTemplate1": 3,
+    "Gallery1": 4,
+    "galleryTemplate1": 5,
     "Label1": 1,
-    "Label1_1": 1,
+    "Label1_1": 3,
     "MenuComponent": 0,
     "MenuComponent_1": 0,
-    "MenuComponent_2": 0,
-    "NextArrow4": 4,
+    "MenuComponent_2": 2,
+    "NextArrow4": 6,
     "Screen1": 0,
-    "Separator4": 6,
-    "Title4": 5
+    "Separator4": 8,
+    "Title4": 7
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
